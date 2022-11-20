@@ -266,7 +266,6 @@
 }
 
 .footer {
-  border: dashed red;
   min-height: 350px;
   display: flex;
   box-sizing: border-box;
@@ -280,7 +279,6 @@
 }
 
 .footer__columns {
-  border: dashed red;
   list-style: none;
   display: flex;
   width: 90%;
