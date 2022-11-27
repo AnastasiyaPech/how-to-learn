@@ -6,3 +6,9 @@
   text-decoration: none;
   color: white;
 }
+.footer__column-link:hover {
+  transition-property: opacity;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  opacity: 0.5;
+}

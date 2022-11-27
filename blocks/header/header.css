@@ -10,5 +10,6 @@
   justify-content: flex-start;
   background: #f2f2f2;
   margin: 0;
+  overflow: hidden;
 
 }
